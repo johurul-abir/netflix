@@ -1,0 +1,18 @@
+
+.watch{
+    background-color: black;
+    padding: 100px 0px;
+    margin-top: 10px;
+}
+.watch_content{
+    width: 30%;
+}
+.watch h2{
+    font-size: 45px;
+    font-weight: 800;
+    color: #fff;
+}
+.watch p{
+font-size: 20px;
+color: white;
+}

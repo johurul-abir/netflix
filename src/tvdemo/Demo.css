@@ -1,0 +1,29 @@
+
+.tvdemo{
+    background-color:#000000 ;
+    padding: 100px 0px;
+    margin-top: 10px;
+}
+.demo-content{
+    padding-top: 20%;
+}
+.demo-content h1{
+    font-size: 40px;
+    font-weight: 800;
+    color: #fff;
+}
+.demo-content h3{
+    font-size: 25px;
+    font-weight: 500;
+    color: #fff;
+    letter-spacing: 2px;
+}
+.tv{
+    position: relative;
+}
+.tv video{
+    position: absolute;
+    width: 468px;
+    top: 100px;
+    left: 85px;
+}
